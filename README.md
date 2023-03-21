@@ -9,7 +9,7 @@ a:
   value2: bar
 
 b:
- value3: baz
+  value3: baz
 ```
 
 Desired content:
@@ -19,7 +19,7 @@ a:
   value2: bar
 
 b:
- value3: baz
+  svalue3: baz
 
 c:
   key1: #Here goes all keys from ".a"
@@ -33,7 +33,7 @@ a:
   value2: bar
 
 b:
- value3: baz
+  value3: baz
 
 c:
   key1:
