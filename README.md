@@ -19,7 +19,7 @@ a:
   value2: bar
 
 b:
-  svalue3: baz
+  value3: baz
 
 c:
   key1: #Here goes all keys from ".a"
